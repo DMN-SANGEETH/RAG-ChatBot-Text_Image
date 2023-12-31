@@ -1,0 +1,1 @@
+['hi', 'hello', 'bye', 'pleasure to meet you', 'good evening', 'thank you']

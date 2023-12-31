@@ -1,0 +1,9 @@
+Django
+openai==0.28
+langchain
+tiktoken
+sentence-transformers
+faiss-cpu
+llama_index
+python_dotenv
+beautifulsoup4
